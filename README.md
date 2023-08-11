@@ -1,9 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Clemar Jr M Piccini!
 
-I worked in a company dedicated to the area of ​​robotics and automation, where I woke up my interest in the area of ​​programming,
-I started working as a storekeeper and was promoted to technical assistance assistant.
-Today I work as a backend developer where I seek to improve my knowledge more and more.
+Trabalhei em uma empresa voltada para a área de robótica e automação, onde despertei
+meu interesse pela área da programação, iniciei exercendo a função de almoxarife e fui promovido a assistente de assistência técnica.
+Hoje trabalho como desenvolvedor backend onde busco melhorar meus conhecimentos cada vez mais.
 ##
 <div>
 <a href="https://github.com/ClemarPiccini">
