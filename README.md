@@ -1,7 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Clemar Jr M Piccini!
 
-I started my academic career in January 2022 at the University of Caxias do Sul, I became interested in the area of ​​systems analysis and development after participating in online classes on the Python programming language, which I found very attractive. I worked in a company dedicated to the area of robotics and automation, where I aroused even more interest in the programming area, I started working as a storekeeper and was promoted to technical assistance assistant. I always look for knowledge in my free time through video lessons and practicing programming on my own, I have a lot of interest and admiration for the development area. Today I work as an intern in software development where I seek to improve my knowledge more and more.
+I worked in a company dedicated to the area of ​​robotics and automation, where I woke up my interest in the area of ​​programming,
+I started working as a storekeeper and was promoted to technical assistance assistant.
+Today I work as a backend developer where I seek to improve my knowledge more and more.
 ##
 <div>
 <a href="https://github.com/ClemarPiccini">
