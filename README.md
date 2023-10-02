@@ -13,13 +13,16 @@ Hoje trabalho como desenvolvedor backend no setor de PDI do SENAI-RS onde busco 
 
 ```JavaScript```
 ```Python```
+```FastAPI```
 ```Node.js```
 ```MySQL```
+```Postegres```
 ```Docker```
 ```API```
 ```JWT```
 ```Sequelize```
 ```Express```
+```React```
 
 
 <div>
