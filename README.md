@@ -1,17 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Clemar Jr M Piccini!
 
-Sobre mim
+## About me
 
-Olá! 👋 Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul (UCS), apaixonado por tecnologia e desenvolvimento de soluções que geram impacto real.
+Hello! 👋 I'm a Software Developer with a degree in Systems Analysis and Development from the University of Caxias do Sul (UCS), passionate about technology and building solutions that make a real impact.
 
-Minha trajetória na tecnologia começou em uma empresa de robótica e automação, onde iniciei como almoxarife e, posteriormente, fui promovido a assistente de assistência técnica. Foi nesse ambiente que descobri meu interesse pela programação e decidi direcionar minha carreira para o desenvolvimento de software.
+My journey in technology started at a robotics and automation company, where I began my career as a warehouse assistant and was later promoted to Technical Support Assistant. It was during this experience that I discovered my interest in programming and decided to pursue a career in software development.
 
-Atualmente, trabalho como desenvolvedor Full Stack, com foco em desenvolvimento mobile utilizando React Native e construção de APIs e soluções backend com Node.js e C#. Também tenho experiência com bancos de dados, Docker, Azure e integração de sistemas.
+I'm currently working as a Full Stack Developer, focusing on mobile development with React Native and backend development using Node.js and C#. I also have experience with databases, Docker, Azure, and system integrations.
 
-Gosto de aprender novas tecnologias, enfrentar desafios e buscar constantemente formas de evoluir como profissional, sempre com foco na qualidade, escalabilidade e eficiência das soluções que desenvolvo.
+I enjoy learning new technologies, tackling challenges, and continuously improving my skills, always focusing on building high-quality, scalable, and efficient solutions.
 
-🚀 Sempre aprendendo, evoluindo e construindo!
+🚀 Always learning, growing, and building!
 
 ## Tecnologias:
 
